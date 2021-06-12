@@ -36,8 +36,8 @@ monitors:
     method: GET
     expectStatus: 200
     
-  - id: google-com
-    name: google.com
-    url: 'https://google.com/'
+  - id: mastodon.exp0.ml
+    name: Mastodon (mastodon.exp0.ml)
+    url: 'mastodon.exp0.ml'
     method: GET
     expectStatus: 200
