@@ -38,6 +38,6 @@ monitors:
     
   - id: mastodon.exp0.ml
     name: Mastodon (mastodon.exp0.ml)
-    url: 'mastodon.exp0.ml'
+    url: 'https://mastodon.exp0.ml'
     method: GET
     expectStatus: 200
