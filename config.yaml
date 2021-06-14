@@ -41,3 +41,4 @@ monitors:
     url: 'https://mastodon.exp0.ml'
     method: GET
     expectStatus: 200
+    followRedirect: true
